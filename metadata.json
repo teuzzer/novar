@@ -1,0 +1,8 @@
+{
+  "name": "NovaTube: AI-First Video Engine",
+  "description": "A next-generation video platform featuring real-time AI companions, semantic discovery, and mood-based browsing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
